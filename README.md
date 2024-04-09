@@ -1,7 +1,7 @@
 # chiprouter
-
-![image](https://github.com/coldchip/chiprouter/raw/master/assets/front.jpeg)
-![image](https://github.com/coldchip/chiprouter/raw/master/assets/back.jpeg)
-![image](https://github.com/coldchip/chiprouter/raw/master/assets/3dfront.png)
-![image](https://github.com/coldchip/chiprouter/raw/master/assets/3dback.png)
-![image](https://github.com/coldchip/chiprouter/raw/master/assets/pcb.png)
+https://github.com/coldchip/chipvpn/raw/main/docs/chipvpn.png
+![image](https://github.com/coldchip/chiprouter/raw/main/assets/front.jpeg)
+![image](https://github.com/coldchip/chiprouter/raw/main/assets/back.jpeg)
+![image](https://github.com/coldchip/chiprouter/raw/main/assets/3dfront.png)
+![image](https://github.com/coldchip/chiprouter/raw/main/assets/3dback.png)
+![image](https://github.com/coldchip/chiprouter/raw/main/assets/pcb.png)
